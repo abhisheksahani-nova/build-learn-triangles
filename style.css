@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* Header */
+
+header {
+  padding: 1rem;
+  background-color:;
+  color: #fff;
+}
+
+header h1 {
+  text-align: initial;
+}
+
+nav {
+  text-align: right;
+}
+
+nav > a {
+  padding: 0 0.5rem;
+}
+
+
+/* Main */
+main {
+  margin: 0 0 7rem;
+}
+
+main h1 {
+  margin: 1rem;
+}
