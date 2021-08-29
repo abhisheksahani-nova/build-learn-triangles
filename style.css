@@ -20,7 +20,7 @@ li {
 
 header {
   padding: 1rem;
-  background-color:;
+  background-color: #2D4159;
   color: #fff;
 }
 
@@ -51,7 +51,7 @@ main h1 {
 
 .input-label {
   font-size: larger;
-  color: ;
+  color: #2D4159;
   width: 256px;
 }
 
@@ -62,17 +62,16 @@ main h1 {
 
 .input-text {
   font-size: 14px;
-  outline: #fff;
   padding: 0.6rem 1rem;
   margin: 1rem;
-  border: 2px solid ;
+  border: 2px solid #2D4159;
   border-radius: 0.5rem;
   width: 100%;
   max-width: 258px;
 }
 
 .btn-check {
-  background: ;
+  background: #2D4159;
   border: none;
   color: #fff;
   padding: 0.7rem 1rem;
